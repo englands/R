@@ -1,2 +1,4 @@
-# R <img src="https://img.icons8.com/fluency/96/rstudio.png" alt="RStudio logo" align=right>
-What I'm Learning in R
+# R Repository <img src="https://img.icons8.com/fluency/96/rstudio.png" alt="RStudio logo" align=right>
+Although my experience with R is that of a beginner, I wanted to keep a repository of everything I learn in my courses and projects that I eventually pursue to gain more experience. I struggled with my limited knowledge of Python; I hope to revisit It once I have a solid grasp of R. I am currently enrolled in [LIS 5802](https://cloud.usf.edu/academic-programs/details/prefix/LIS/code/5802) at the University of South Florida for my graduate program, and I have been learning and growing more confident in my R capabilities.
+
+I have my certifications from what I needed to learn for my course, all from DataCamp. I also will be pursuing Data Science in the [Public Sector with R Specialization](https://www.coursera.org/specializations/data-analytics-in-the-public-sector-with-r) from Coursera.
