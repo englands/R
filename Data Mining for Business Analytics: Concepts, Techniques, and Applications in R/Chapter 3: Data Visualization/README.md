@@ -5,3 +5,13 @@
 - [Figure 3.3: Side-by-Side Boxplots for Exploring the CAT.MEDV Output Variable by Different Numerical Predictors]()
 - [Figure 3.4: Heatmap of a Correlation Table. Darker Values Denote Stronger Correlation](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.4%3A%20Heatmap%20of%20a%20Correlation%20Table.%20Darker%20Values%20Denote%20Stronger%20Correlation.R)
 - [Figure 3.5: Heatmap of Missing Values in a Dataset. Black Denotes Missing Value](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.5%3A%20Heatmap%20of%20Missing%20Values%20in%20a%20Dataset.%20Black%20Denotes%20Missing%20Value.R)
+- [Figure 3.6: Adding Categorical Variables by Color-Coding and Multiple Panels](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.6%3A%20Adding%20Categorical%20Variables%20by%20Color-Coding%20and%20Multiple%20Panels.R)
+- Figure 3.7:
+- Figure 3.8:
+- Figure 3.9:
+- Figure 3.10:
+- Figure 3.11:
+- Figure 3.12:
+- Figure 3.13:
+- Figure 3.14:
+- Figure 3.15:
