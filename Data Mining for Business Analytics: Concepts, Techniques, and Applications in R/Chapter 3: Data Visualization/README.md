@@ -10,8 +10,9 @@
 - [Figure 3.8: Rescaling Can Enhance Plots and Reveal Patterns](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.8%3A%20Rescaling%20Can%20Enhance%20Plots%20and%20Reveal%20Patterns.R)
 - [Figure 3.9: Time Series Line Graphs Using Different Aggregations, Adding Curves, and Zooming In](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.9%3A%20Time%20Series%20Line%20Graphs%20Using%20Different%20Aggregations%2C%20Adding%20Curves%2C%20and%20Zooming%20In.R)
 - [Figure 3.10: Scatter Plot with Labeled Points](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.10%3A%20Scatter%20Plot%20with%20Labeled%20Points.R)
-- Figure 3.11:
-- Figure 3.12:
-- Figure 3.13:
-- Figure 3.14:
-- Figure 3.15:
+- [Figure 3.11: Scatter Plot of Large Dataset with Reduced Marker Size, Jittering, and More Transparent Coloring](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.11%3A%20Scatter%20Plot%20of%20Large%20Dataset%20with%20Reduced%20Marker%20Size%2C%20Jittering%2C%20and%20More%20Transparent%20Coloring.R)
+- [Figure 3.12: ]()
+- [Figure 3.13: ]()
+- [Figure 3.14: ]()
+- [Figure 3.15: ]()
+- [Figure 3.16: ]()
