@@ -9,7 +9,7 @@
 - [Figure 3.7: Scatter Plot Matrix for MEDV and Three Numerical Predictors](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.7%3A%20Scatter%20Plot%20Matrix%20for%20MEDV%20and%20Three%20Numerical%20Predictors.R)
 - [Figure 3.8: Rescaling Can Enhance Plots and Reveal Patterns](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.8%3A%20Rescaling%20Can%20Enhance%20Plots%20and%20Reveal%20Patterns.R)
 - [Figure 3.9: Time Series Line Graphs Using Different Aggregations, Adding Curves, and Zooming In](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics%3A%20Concepts%2C%20Techniques%2C%20and%20Applications%20in%20R/Chapter%203%3A%20Data%20Visualization/Figure%203.9%3A%20Time%20Series%20Line%20Graphs%20Using%20Different%20Aggregations%2C%20Adding%20Curves%2C%20and%20Zooming%20In.R)
-- Figure 3.10:
+- [Figure 3.10: Scatter Plot with Labeled Points]()
 - Figure 3.11:
 - Figure 3.12:
 - Figure 3.13:
