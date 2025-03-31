@@ -4,4 +4,4 @@
 
 ## HTML Compiled Report
 
-## Microsoft Word Compiled Report
+## [Microsoft Word Compiled Report](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics/Chapter%203%3A%20Data%20Visualization/Chapter-3-Figures-Code.docx)
