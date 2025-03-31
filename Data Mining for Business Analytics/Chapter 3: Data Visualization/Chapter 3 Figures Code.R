@@ -369,7 +369,7 @@ treemap(tree.df, index = c("Category", "Sub.Category", "Brand"),
 
 library(ggmap)
 # registering Google API to make this work
-register_google(key = "AIzaSyBS2NXqjSruf6Bm5ERVEYILoHULXa9RFPo")
+register_google(key = "get_new_code_from_Google_Cloud_Platform")
 
 # continued code from textbook
 SCstudents <- read.csv("SC-US-students-GPS-data-2016.csv")
