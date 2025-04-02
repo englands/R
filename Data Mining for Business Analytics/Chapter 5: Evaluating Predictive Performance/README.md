@@ -1,6 +1,6 @@
 # Chapter 5: Evaluating Predictive Performance
 
-## <img src="https://img.icons8.com/?size=100&id=YYhSxUUW8osK&format=png&color=000000" alt="RStudio logo" align=right>[R Code]()
+## <img src="https://img.icons8.com/?size=100&id=YYhSxUUW8osK&format=png&color=000000" alt="RStudio logo" align=right>[R Code](https://github.com/englands/R/blob/main/Data%20Mining%20for%20Business%20Analytics/Chapter%205%3A%20Evaluating%20Predictive%20Performance/Chapter%205%20Figures%20Code.R)
 
 ##
 
